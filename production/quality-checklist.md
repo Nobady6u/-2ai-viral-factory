@@ -1,0 +1,12 @@
+# Production QA checklist
+- [ ] Hook is clear in first 1–2 seconds
+- [ ] One central idea
+- [ ] Spoken duration is 10–20 seconds
+- [ ] Natural Levantine Arabic
+- [ ] Ending/payoff is satisfying
+- [ ] Character continuity checked against references
+- [ ] Layan modestly styled where applicable
+- [ ] No music; only dialogue/ambience/natural SFX
+- [ ] Facts sourced or story clearly fictional
+- [ ] Credits/cost verified; no spend without approval
+- [ ] Owner approved before generation/publishing
