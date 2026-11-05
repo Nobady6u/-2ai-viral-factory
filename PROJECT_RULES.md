@@ -1,0 +1,17 @@
+# Project rules
+- Brand/project: AI VIRAL FACTORY.
+- Platform: Instagram Reels and carousels.
+- Language: natural Palestinian/Levantine Arabic unless the owner requests otherwise.
+- Content mix target: mystery/horror 30%, comedy 25%, psychology/relationships 25%, twists/stories 20%.
+- Reels target: 10–20 seconds, usually 15–18 seconds.
+- Audio: absolutely no music. Dialogue, ambience and natural sound effects only.
+- Stories must be clearly fictional when invented.
+- Layan's clothing must remain modest.
+- Characters: Adam (calm, intelligent mystery lead); Layan (smart, bold, modest styling); Abu Al-Abd (middle-aged comic personality); Z (mysterious puzzle/thriller figure).
+- Character consistency: reuse approved descriptions; do not claim exact identity consistency across generations without checking outputs.
+- Production safeguards: no paid credit use, generation spend, publication, account changes, or irreversible action without explicit approval.
+- Track estimated and actual cost separately; verify current provider pricing before estimating.
+- VidIQ last reported balance: 25 credits; do not use until owner explicitly approves and balance/pricing are rechecked.
+- Orshot last reported free allowance: 100 credits/month; verify current balance and cost before use.
+- Never promise virality. Optimize for hook clarity, retention, replay value, and shareability.
+- Keep a human approval gate before final assets and publication.
